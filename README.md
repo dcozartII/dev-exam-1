@@ -2,15 +2,19 @@
 # David Cozart
 
 ## What is it? 
-This is a demo Node.js app utilizing Express.js & Angular.js. 
+This is an app deployed to heroku starting with Node.js
 
-What it does: shows you how to (a) interact with a web page using Angular...info to and from the server
+What it does: This app shows off angular and how it works.
 
 ## So what? 
 
-- Grab this code & put it on your local dev box
-- Make sure you've got dependencies saved locally
-- modify it as you see fit
-- move it all over to a new REPO that you own
-- connect it to heroku
-- PAYOFF! 
+As a student I can learn better by making sure everything reflects my code. 
+
+1. Export Dr. Cumbie's app as a zip
+2. Put it into Visual Studio Code
+3. Modify by the requirements
+4. Display app on heroku
+5. Link to my repo
+6. Heroku link in my repo about
+
+
