@@ -1,4 +1,5 @@
-# my-super-cool-awesome-project-app-heroku-node-thing
+# dev-exam-1
+# David Cozart
 
 ## What is it? 
 This is a demo Node.js app utilizing Express.js & Angular.js. 
