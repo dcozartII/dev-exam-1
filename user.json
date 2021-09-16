@@ -2,6 +2,6 @@
     "name": "David Cozart",
     "github": "dcozartII",
     "repo" : "https://github.com/dcozartII/dev-exam-1", 
-    "app" : "url to the heroku app you create for this", 
+    "app" : "https://dev-exam-1.herokuapp.com/", 
     "skills" : ["HTML", "PHP", "Networking", "Computer Hardware", "Node.js" ]
 }
