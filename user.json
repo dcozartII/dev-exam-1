@@ -1,0 +1,7 @@
+{
+    "name": "David Cozart",
+    "github": "dcozartII",
+    "repo" : "url to the repo you create for this code", 
+    "app" : "url to the heroku app you create for this", 
+    "skills" : ["HTML", "PHP", "Networking", "Computer Hardware", "Node.js" ]
+}
